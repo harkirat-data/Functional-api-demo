@@ -1370,18 +1370,6 @@ Complex Neural Network Graphs
 
 ---
 
-# Repository
-
-GitHub Repository:
-
-https://github.com/harkirat-data/Functional-api-demo
-
----
-
-# Author
-
-**Harkirat Singh**
-
 Data Science / Machine Learning
 
 This repository is part of a hands-on progression through deep learning fundamentals and neural network architectures.
